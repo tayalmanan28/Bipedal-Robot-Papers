@@ -1,1 +1,1 @@
-# Walking-Robot-Papers
+# Walking Robot Papers
