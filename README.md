@@ -11,3 +11,9 @@
 - Baseline Walking Controller [[Code]](https://github.com/isri-aist/BaselineWalkingController)
 - Model Predictive Control of Running Biped Robot [[Paper]](https://www.mdpi.com/2076-3417/12/21/11183)
 
+# Model Based Jumping for Legged Robots
+
+- [Continuous Jumping for Legged Robots on Stepping Stones via Trajectory Optimization and Model Predictive Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9993259)
+- [Contact-timing and Trajectory Optimization for 3D Jumping on Quadruped Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981284)
+- [Optimized Jumping on the MIT Cheetah 3 Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794449)
+- [Online Planning for Autonomous Running Jumps Over Obstacles in High-Speed Quadrupeds](https://www.roboticsproceedings.org/rss11/p47.pdf)
