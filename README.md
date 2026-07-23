@@ -1,9 +1,13 @@
 # Optimal Controls (MPC) Based Implementations of Bipedal Robot Papers
 
+- Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375199)
+- The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors [[Paper]](https://arxiv.org/pdf/2104.09025.pdf) [[Video]](https://www.youtube.com/watch?v=Z9oFlzL0T2s)
+- Force-and-moment-based Model Predictive Control for Achieving Highly Dynamic Locomotion on Bipedal Robots [[Paper]](https://arxiv.org/pdf/2104.00065.pdf)
+  
 - A robust linear MPC approach to online generation of 3D biped walking motion [[Paper]](https://ieeexplore.ieee.org/document/7363423)
 - Variable Horizon MPC with Swing Foot Dynamics for Bipedal Walking Control [[Paper]](https://arxiv.org/pdf/2010.08198.pdf) [[Video]](https://www.youtube.com/watch?v=xzCn1nQiVPI) [[Code]](https://github.com/machines-in-motion/reactive_planners)
-- Force-and-moment-based Model Predictive Control for Achieving Highly Dynamic Locomotion on Bipedal Robots [[Paper]](https://arxiv.org/pdf/2104.00065.pdf)
-- The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors [[Paper]](https://arxiv.org/pdf/2104.09025.pdf) [[Video]](https://www.youtube.com/watch?v=Z9oFlzL0T2s)
+
+
 - Terrain-Adaptive, ALIP-Based Bipedal Locomotion Controller via Model Predictive Control and Virtual Constraints [[Paper]](https://arxiv.org/pdf/2109.14862.pdf) [[Code]](https://github.com/UMich-BipedLab/cassie_alip_mpc)
 - Online Non-linear Centroidal MPC for Humanoid Robot Locomotion with Step Adjustment [[Paper]](https://arxiv.org/pdf/2203.04489.pdf) [[Code]](https://github.com/ami-iit/paper_romualdi_2022_icra_centroidal-mpc-walking)
 - Orientation-Aware Model Predictive Control with Footstep Adaptation for Dynamic Humanoid Walking [[Paper]](https://arxiv.org/pdf/2205.15443.pdf)
