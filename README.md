@@ -3,6 +3,8 @@
 - Design and Development of the MIT Humanoid: A Dynamic and Robust Research Platform [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10375199)
 - The MIT Humanoid Robot: Design, Motion Planning, and Control For Acrobatic Behaviors [[Paper]](https://arxiv.org/pdf/2104.09025.pdf) [[Video]](https://www.youtube.com/watch?v=Z9oFlzL0T2s)
 - Force-and-moment-based Model Predictive Control for Achieving Highly Dynamic Locomotion on Bipedal Robots [[Paper]](https://arxiv.org/pdf/2104.00065.pdf)
+- Contact Model Fusion for Event-Based Locomotion in Unstructured Terrains [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8460904)
+
   
 - A robust linear MPC approach to online generation of 3D biped walking motion [[Paper]](https://ieeexplore.ieee.org/document/7363423)
 - Variable Horizon MPC with Swing Foot Dynamics for Bipedal Walking Control [[Paper]](https://arxiv.org/pdf/2010.08198.pdf) [[Video]](https://www.youtube.com/watch?v=xzCn1nQiVPI) [[Code]](https://github.com/machines-in-motion/reactive_planners)
